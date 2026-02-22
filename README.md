@@ -1,47 +1,97 @@
-Hi 👋 My name is Nikhil Terala
-==============================
+<div align="center">
 
-Full Stack Developer
---------------------
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0F2444&height=120&section=header&text=&fontSize=0" width="100%"/>
 
-I've been learning to code Since 2017, I am very much fascinated by Python due to its very rich libraries. I'm currently working as a .net developer.
+# Hi, I'm Nikhil Terala 👋
 
-* 🌍  I'm based in Hyderabad,India
-* ✉️  You can contact me at [nikhil.terala@gmail.com](mailto:nikhil.terala@gmail.com)
-* 🧠  I'm learning Rust Programming language
-* 🤝  I'm open to collaborating on Full Stack Web developer Projects.
-* ⚡  Willing to found a start-up very soon.
+**Full Stack Engineer** · .NET Core · Azure Serverless · React.js
 
-### Skills
+*Building enterprise-grade cloud automation systems at Amgen, Hyderabad*
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
-<a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored.svg" width="36" height="36" alt="Rust" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a>
-<a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
-<a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
-</p>
+[![Email](https://img.shields.io/badge/nikhil.terala%40gmail.com-0F2444?style=flat-square&logo=gmail&logoColor=white)](mailto:nikhil.terala@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0F2444?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhil-terala-b5a4a9128)
+[![Location](https://img.shields.io/badge/Hyderabad%2C%20India-0F2444?style=flat-square&logo=google-maps&logoColor=white)](https://maps.google.com/?q=Hyderabad,India)
 
+</div>
 
-### Socials
+---
 
-<p align="left"> <a href="https://www.github.com/nikhilterala" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/nikhil_terala" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/terala-nikhil-b5a4a9128" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/nikhilterala" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+## About Me
 
-### Support Me
+I'm a full stack engineer with 4+ years building enterprise backend systems and cloud automation on Azure. Most of my work lives in the **.NET Core + Azure serverless** space — designing workflows that replace manual processes and scale reliably under real load.
 
-<a href="https://www.buymeacoffee.com/nikhilterala"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+Currently at **Amgen**, I architect and own cloud automation systems that manage 10,000+ Cloud PCs across the organization. Before that, I've built full-stack financial platforms at Kaara Info Systems and contract lifecycle systems for enterprise clients at Icertis.
+
+On the frontend, I work with **React.js and TypeScript**. I'm also integrating LLMs into .NET applications using the OpenAI API and LlamaSharp — a space I find genuinely interesting.
+
+- 🏢 &nbsp; Senior Associate IS Engineer at **Amgen**
+- 🌍 &nbsp; Based in **Hyderabad, India**
+- 🔧 &nbsp; Specializing in **Azure serverless architecture** and **Microsoft Graph API** automation
+- 🤖 &nbsp; Exploring **LLM integration** in enterprise .NET applications
+- 🤝 &nbsp; Open to collaborating on full-stack or cloud automation projects
+- 📫 &nbsp; Reach me at **nikhil.terala@gmail.com**
+
+---
+
+## Tech Stack
+
+**Backend & Languages**
+
+![C#](https://img.shields.io/badge/C%23-0F2444?style=flat-square&logo=csharp&logoColor=white)
+![.NET Core](https://img.shields.io/badge/.NET%20Core%206%2F8-0F2444?style=flat-square&logo=dotnet&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-0F2444?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-0F2444?style=flat-square&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0F2444?style=flat-square&logo=python&logoColor=white)
+
+**Cloud & Azure**
+
+![Azure Functions](https://img.shields.io/badge/Azure%20Functions-0F2444?style=flat-square&logo=azure-functions&logoColor=white)
+![Azure Logic Apps](https://img.shields.io/badge/Logic%20Apps-0F2444?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Cosmos DB](https://img.shields.io/badge/Cosmos%20DB-0F2444?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Service Bus](https://img.shields.io/badge/Service%20Bus-0F2444?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0F2444?style=flat-square&logo=azure-devops&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-0F2444?style=flat-square&logo=amazon-aws&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React.js-0F2444?style=flat-square&logo=react&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material%20UI-0F2444?style=flat-square&logo=mui&logoColor=white)
+
+**Data & Tools**
+
+![SQL Server](https://img.shields.io/badge/SQL%20Server-0F2444?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0F2444?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-0F2444?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-0F2444?style=flat-square&logo=postman&logoColor=white)
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=nikhilterala&show_icons=true&theme=dark&bg_color=0F2444&title_color=2563EB&icon_color=2563EB&text_color=CBD5E1&border_color=1E3A5F&hide_border=false&count_private=true" />
+&nbsp;&nbsp;
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilterala&layout=compact&theme=dark&bg_color=0F2444&title_color=2563EB&text_color=CBD5E1&border_color=1E3A5F&hide_border=false" />
+
+</div>
+
+---
+
+## Certifications
+
+| Certification | Status |
+|---|---|
+| Microsoft Azure Fundamentals (AZ-900) | ✅ Certified |
+| Microsoft Azure AI Fundamentals (AI-900) | ✅ Certified |
+| Icertis Technical Professional | ✅ Certified |
+| McKinsey Forward Program | ✅ Completed |
+| Microsoft Azure Developer Associate (AZ-204) | 🔄 In Progress |
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0F2444&height=80&section=footer" width="100%"/>
+
+</div>
